@@ -32,11 +32,12 @@
 
     <TextView
         android:layout_width="match_parent"
-        android:text="Username"
+        android:text=" "
         android:layout_height="wrap_content" />
 
     <EditText
         android:id="@+id/etUsername"
+        android:hint="Username"
         android:layout_width="match_parent"
         android:layout_marginBottom="10dp"
         android:layout_height="wrap_content" />

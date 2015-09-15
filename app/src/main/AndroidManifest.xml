@@ -24,6 +24,10 @@
             android:name=".register"
             android:label="@string/title_activity_register" >
         </activity>
+        <activity
+            android:name=".test_window"
+            android:label="@string/title_activity_test_window" >
+        </activity>
     </application>
 
 </manifest>
